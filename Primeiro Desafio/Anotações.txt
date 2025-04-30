@@ -1,0 +1,14 @@
+Anotações dos passos;
+
+Git instalado
+Chaves criadas
+conta GitHub 
+Arquivos criados e adicionados
+Commits feitos
+repositório GirHub
+empurrar par GitHub
+Alteração do README no GitHub
+Clone
+Inserção de anotações
+commit
+empurrar
